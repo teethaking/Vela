@@ -328,9 +328,7 @@ Required for changes to `SignalAggregator`, `ScoreEngine`, or any reporter contr
 
 1. `cargo test` and `pnpm test` must pass before opening a PR
 2. All PRs require one approving review from a maintainer
-3. PRs touching `model.rs` (scoring weights/logic) require two approving reviews and an open governance discussion
-4. PRs adding new reporters require one approving review and a governance registration proposal
-5. Maintainers squash-merge approved PRs into `main`
+3. Maintainers squash-merge approved PRs into `main`
 
 ### PR checklist
 
